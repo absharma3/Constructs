@@ -1,0 +1,16 @@
+target
+.iml$
+^.idea
+syntax: regexp
+\.settings$
+syntax: regexp
+\.project$
+syntax: regexp
+\.classpath$
+syntax: regexp
+\bin$
+.lastModified
+.DS_Store
+bin
+syntax: glob
+kareotest.log

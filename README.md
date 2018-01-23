@@ -14,5 +14,3 @@ Topics to cover:
 * Matrix
 * Advanced DS
 
-
-Staring off with 
