@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 /**
  * Created by abhimanyus on 1/25/18.
  */
-public class Equilibrium {
+class Equilibrium {
 
 
     public static void main(String[] args) throws IOException {
